@@ -11,24 +11,24 @@ body {background-color: #1e1e1e;}
     transform: translate(-50%, -50%);
 }
 .main h1 {
-    color: #ffc0cb;
+    color: #FF0000;
     font-size: 30px;
     margin-top: 7.5px;
     margin-bottom: 7.5px;
 }
 .main h2 {
-    color: #ffc0cb;
+    color: #FF0000;
     font-size: 25px;
     margin-top: none;
     margin-bottom: none;
     text-decoration: underline;
 }
 .main p {
-    color: #ffc0cb;
+    color: #FF0000;
     font-size: 17.5px;
 }
 .main a {
-    color: #ffc0cb;
+    color: #FF0000;
     font-size: 20px;
     font-weight: bold;
     padding: 5px;
